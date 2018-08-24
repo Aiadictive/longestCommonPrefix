@@ -1,0 +1,2 @@
+# longestCommonPrefix
+longestCommonPrefix
